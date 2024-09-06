@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background: url('wash.jpg') no-repeat center center / cover ;
+    height: 100vh;
+    padding-top: 90px;
+    text-align: center;
+}
+
+.logo{
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 200px;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.washington{
+    color: #000;
+    font-weight: 900;
+    font-size: 15px;
+    background-color: #fff;
+    width: 260px;
+    text-align: center;
+    margin-bottom: 24px;
+    border-radius: 78px;
+    padding: 8px 17px;
+    text-transform: uppercase;
+}
+
+.title{
+    color:#fff;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+.text{
+    color:#fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 24px; 
+}
+
+.link{
+    color: #fff;
+    background-color: #FF7E36;
+    padding: 18px 52px;
+    font-size: 16px;
+    font-weight: 900;
+    border-radius: 119px;
+    text-decoration: none;
+}
+
+.route{
+    text-align: center;
+}
+
+.log{
+    color: #304041;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 155px;
+
+}
+
+.jpg2{
+width: 476px;
+height: 589px;
+float: right;
+margin-top: 128px;
+margin-right: 241px;
+}
+
+.info2{
+    background-color: #FFEFF5;
+    text-align: left;
+    margin: 128px 717px 59px 211px;
+    padding: 80px 52px 97px 92px;
+}
+
+
+
+.tex{
+    color: #789AA0;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.title2{
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.text2{
+    margin-right: 59px;
+    margin-bottom: 16px;
+    font-size: 15px;
+}
+
+.rar{
+    color: #44ACB2; 
+}
+
+.link2{
+    color: #FF7E36;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 17px 49px;
+    border-radius: 94px;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: #FF7E36;
+    text-decoration: none;
+}
+
+.logo3{
+    text-align: center;
+    margin-top: 163px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.jpg3{
+    width: 787px;   
+    margin-top: 93px;
+    float: right;
+}
+
+.line{
+    width: 64px; 
+    height: 7px; 
+    background-color: #8B4513;
+    border-radius: 100px;
+}
+
+.main3{
+    margin-top: 250px;
+    margin-left: 230px;
+}
+
+.text3{
+    margin-top: 15px;
+}
+
+.text4{
+    margin-top: 60px;
+}
+
+.footer{
+    display: flex;
+    gap: 50px; 
+    font-size: 16px; 
+    color: #7F8C8D; 
+    padding: 20px;
+    margin: 200px 200px 50px 0px;
+}
+
+.prava{
+    margin-right: 30px;
+}
